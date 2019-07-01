@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### Software skills:
+* Python
+* R
+* Tableau
+* SQL
+* Excel
